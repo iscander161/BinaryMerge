@@ -1,0 +1,3 @@
+C:/Users/Family/CLionProjects/BinaryMerge/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Family/CLionProjects/BinaryMerge/cmake-build-debug/CMakeFiles/BinaryMerge.dir
+C:/Users/Family/CLionProjects/BinaryMerge/cmake-build-debug/CMakeFiles/rebuild_cache.dir

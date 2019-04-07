@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Family/CLionProjects/BinaryMerge/main.cpp
+main.h
+C:/Users/Family/CLionProjects/BinaryMerge/main.h
+
+C:/Users/Family/CLionProjects/BinaryMerge/main.h
+iostream
+-
+fstream
+-
+string
+-
+sstream
+-
+array
+-
+
